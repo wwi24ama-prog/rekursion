@@ -6,9 +6,6 @@ package lists
 func Partition(list []int, key int) ([]int, []int) {
 	// Verwende Kopien von list, damit die ursprüngliche Liste nicht verändert wird.
 
-	// Verwenden Sie die Funktionen FilterLess und FilterGreater.
-	// Die Funktion Partition selbst muss nicht rekursiv sein.
-
 	// TODO
 	return []int{}, []int{}
 }
